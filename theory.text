@@ -1,0 +1,22 @@
+
+1. getElementById()
+2. getElementByClassName()
+3. getElementByTag()
+4. querySelector()
+
+=========Event========
+
+1. onclick()
+2. onchange()
+3. onsubmit()
+4. onblur()
+5. onkeyup()
+6. onkeydown()
+7. onmouseover()
+
+=======Convert string to Number=======   40 integer,   40.30  Float
+
+parseInt('40')=> 40
+parseFloat('40.30')=> 40.30
+
+
